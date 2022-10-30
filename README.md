@@ -6,7 +6,7 @@ I'm trying to improve myself in the technologies that will make me evolve in the
 
 [![Github](https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=FFFFFF)](https://github.com/RomainSav) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/RomainSav_)
 
-## 🚀 Languages and technologies
+## 🚀 Skills
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=Javascript) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
