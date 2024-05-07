@@ -1,6 +1,6 @@
 ## 👋 About me
 
-Hello, my name is Romain and I am 17 years old !
+Hello, my name is Romain and I am 19 years old !
 
 I'm trying to improve myself in the technologies that will make me evolve in the future. For now, I mainly use tools using the javascript language.
 
