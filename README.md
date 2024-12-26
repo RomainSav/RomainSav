@@ -1,6 +1,6 @@
 ## 👋 About me
 
-Hello, my name is Romain and I am 19 years old !
+Hello, my name is Romain and I am 20 years old !
 
 I'm trying to improve myself in the technologies that will make me evolve in the future. For now, I mainly use tools using the javascript language.
 
@@ -21,7 +21,6 @@ I'm trying to improve myself in the technologies that will make me evolve in the
 ![Prisma](https://img.shields.io/badge/Prisma-00A169?style=for-the-badge&logo=Prisma)
 ![GraphQL](https://img.shields.io/badge/GraphQL-e00097?style=for-the-badge&logo=graphql)
 
-![SvelteJS](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 💻 IDE
